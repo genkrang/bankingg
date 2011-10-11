@@ -12,5 +12,9 @@ class Account
     return @balance
   end
 
+    def add_deposit(amount)
+    initial_balance = @balance
+    @balance = initial_balance + amount
 
+  end
 end
