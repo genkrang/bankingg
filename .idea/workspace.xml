@@ -26,7 +26,7 @@
       <file leaf-file-name="account.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/account.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="21" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+            <state line="25" column="20" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="account_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="320" selection-end="320" vertical-scroll-proportion="0.30939227">
+            <state line="28" column="86" selection-start="644" selection-end="644" vertical-scroll-proportion="0.6685083">
               <folding />
             </state>
           </provider>
@@ -62,8 +62,8 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/account.rb" />
-        <option value="$PROJECT_DIR$/lib/account.rb" />
         <option value="$PROJECT_DIR$/specs/account_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/account.rb" />
       </list>
     </option>
   </component>
@@ -380,14 +380,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/account.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="21" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+        <state line="25" column="20" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="320" selection-end="320" vertical-scroll-proportion="0.30939227">
+        <state line="28" column="86" selection-start="644" selection-end="644" vertical-scroll-proportion="0.6685083">
           <folding />
         </state>
       </provider>

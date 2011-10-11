@@ -16,5 +16,11 @@ class Account
     initial_balance = @balance
     @balance = initial_balance + amount
 
+    end
+
+  def make_withdrawal(amount)
+    initial_balance = @balance
+    @balance = initial_balance - amount
+
   end
 end
