@@ -17,4 +17,13 @@ describe Account do
     subject.balance.should == starting_balance
   end
 
+  it "should have a balance that equals the sum of starting balance and amount deposited"
+
+     initial_balance = 100.00
+    amount= 150.00
+    subject = Account.new(initial_balance)
+    subject.add_deposit(amount)
+    subject.balance.should_not == initial_balance
+
+
 end
