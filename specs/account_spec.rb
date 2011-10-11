@@ -17,13 +17,24 @@ describe Account do
     subject.balance.should == starting_balance
   end
 
-  it "should have a balance that equals the sum of starting balance and amount deposited" do
+  it "should have a balance that is not equals the initial balance" do
 
-     initial_balance = 100.00
+    initial_balance = 100.00
     amount= 150.00
     subject = Account.new(initial_balance)
     subject.add_deposit(amount)
     subject.balance.should_not == initial_balance
 
   end
+
+  it "should have a balance that is not equals the initial balance" do
+
+    initial_balance = 200.00
+    amount= 80.00
+    subject = Account.new(initial_balance)
+    subject.make_withdrawal(amount)
+    subject.balance.should_not == initial_balance
+
+  end
+
 end
