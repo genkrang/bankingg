@@ -26,7 +26,7 @@
       <file leaf-file-name="account.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/account.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="19" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+            <state line="6" column="31" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="account_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="23" selection-start="205" selection-end="205" vertical-scroll-proportion="0.3314917">
+            <state line="19" column="47" selection-start="395" selection-end="395" vertical-scroll-proportion="0.5248619">
               <folding />
             </state>
           </provider>
@@ -380,14 +380,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/account.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+        <state line="6" column="31" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specs/account_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="23" selection-start="205" selection-end="205" vertical-scroll-proportion="0.3314917">
+        <state line="19" column="47" selection-start="395" selection-end="395" vertical-scroll-proportion="0.5248619">
           <folding />
         </state>
       </provider>
